@@ -1,0 +1,39 @@
+#whft{
+  color:white;
+}
+#wrapper{
+  width: 1000px;
+  margin: 0 auto;
+}
+a { text-decoration:none }
+a {
+  color: white;
+}
+div.container {
+  background: #1C1C1C;
+  position: fixed;
+  left:0; top: 0; right: 0;
+  height: 50px;
+}
+div.item{
+  float: right;
+  margin: 2px 3px 0 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: #424242;
+}
+div.item2{
+  float: left;
+}
+div.item3{
+  float: center;
+  margin: 2px 3px 0 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: #424242;
+}
+.imag {
+  float: left;
+}
